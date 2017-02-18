@@ -7,4 +7,4 @@
   
 *WHAT TO DO*: You want to predict how many bikes you will need in the near future based on historical data. To do this, you have to build a Neural Network and train it on historical data to make predictions.  
   
-*SOLUTION*: The solution - with available code and detailed comments - is available as HTML file to run in any browser in the GitHub repository link as above or as Jupyter Notebook.
+*SOLUTION*: The solution - with code and detailed comments - is available as HTML file to run in any browser and/or as Jupyter Notebook.
